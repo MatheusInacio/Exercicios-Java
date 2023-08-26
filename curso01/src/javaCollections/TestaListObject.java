@@ -18,7 +18,7 @@ public class TestaListObject {
 		aulas.add(a2);
 		aulas.add(a3);
 
-		System.out.println("sem ordenação");
+		System.out.println("sem ordenaï¿½ï¿½o");
 		System.out.println(aulas);
 		System.out.println();
 
