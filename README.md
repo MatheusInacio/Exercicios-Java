@@ -1,2 +1,2 @@
 # Exercicios-Java
- Exercícios Java para estud. Formação Professor Java Alura.
+ Exercícios Java para estudo. Formação Professor Java Alura.
